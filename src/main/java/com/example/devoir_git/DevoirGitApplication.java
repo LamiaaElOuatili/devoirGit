@@ -10,6 +10,7 @@ public class DevoirGitApplication {
         SpringApplication.run(DevoirGitApplication.class, args);
         System.out.println(" coucou je suis le developpeur/testeur Meryem" );
         System.out.println(" le scrum master est lamiaa" );
+        System.out.println(" coucou" );
 
     }
 
